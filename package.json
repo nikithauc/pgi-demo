@@ -1,0 +1,21 @@
+{
+  "name": "demo-pgi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@azure/identity": "^3.0.0",
+    "@microsoft/kiota-authentication-azure": "^1.0.0-preview.4",
+    "@microsoft/microsoft-graph-client": "^4.0.0-RestPreview.1",
+    "@microsoft/microsoft-graph-types": "^3.0.0-RestPreview.1"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.2"
+  }
+}
